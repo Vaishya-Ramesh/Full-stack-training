@@ -1,0 +1,25 @@
+
+body{
+    border: 3px solid rgb(99, 99, 99);
+    margin: 20px;
+    padding: 15px;
+}
+.image{
+    display: flex;
+    align-items: center;
+}
+.image img {
+    margin-right: 20px;
+}
+body h2{
+    background-color:rgb(25, 76, 92);
+    color: white;
+    border-radius: 3px;
+}
+.details{
+    margin-left: auto;
+    text-align:right;
+}
+body h1{
+    text-align: center;
+}
